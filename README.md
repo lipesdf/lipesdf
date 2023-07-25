@@ -6,7 +6,7 @@
 
 - 🖥️ Junior Web Developer
 - 🚀 I’m currently learning ReactJs
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/video-game_1f3ae.png" width="20px" align="center">I like games 
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/video-game_1f3ae.png" width="20px" align="center"> I like games 
 - 🔭 I’m currently working part time job @fundacao_fau
 
 <br></br>
