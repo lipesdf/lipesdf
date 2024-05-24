@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipesdf&color=blue" alt="profile views" /></p>
 
 - 🖥️ Junior Web Developer
-- 🚀 I’m currently learning ReactJs
+- 🚀 I’m currently learning Python
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/video-game_1f3ae.png" width="20px" align="center"> I like games 
 - 🔭 I’m currently working part time job @fundacao_fau
 
@@ -13,11 +13,14 @@
 
 ## 🛠️ &nbsp;Tech Stack
 
+![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=yellow)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
+
+
 
 
 <!-- <div id="header" align="center">
