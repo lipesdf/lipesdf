@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lipesdf/c1a2a361cdedb9bb31c654f74ce2ad3c/raw/2339b5de6e9b21196456fe439e5d2c97fc14aa04/githubcard.svg">
 
-<h1 align="left"> Hi dear 👋, I'm Felipe Sérgio</h1>
+<h1 align="left"> Hi guys 👋, I'm Felipe Sérgio</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipesdf&color=blue" alt="profile views" /></p>
 
