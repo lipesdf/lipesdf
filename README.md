@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipesdf&color=blue" alt="profile views" /></p>
 
-- 🖥️ Systems Analyst
-- 🚀 I’m currently learning Python
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/video-game_1f3ae.png" width="20px" align="center"> I like games 
-- 🔭 I’m currently working part time job @fundacao_fau
+- 🖥️ㅤSystems Analyst
+- 🚀ㅤPython Developer
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/video-game_1f3ae.png" width="20px" align="center">ㅤI like games 
+- 🔭ㅤI’m currently working job @fundacao_fau
 
 <br></br>
 
