@@ -13,11 +13,13 @@
 
 ## 🛠️ &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=yellow)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=yellow)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 <!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 
 
