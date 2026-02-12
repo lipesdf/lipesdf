@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipesdf&color=blue" alt="profile views" /></p>
 
 - 🖥️ㅤSystems Analyst
-- 🚀ㅤPython Developer
+- 🚀ㅤPython and Angular Developer
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/video-game_1f3ae.png" width="20px" align="center">ㅤI like games 
 
 <br></br>
