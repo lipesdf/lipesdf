@@ -2,7 +2,7 @@
 
 <h1 align="left"> Hi guys 👋, I'm Felipe Sérgio</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lipesdf&color=blue" alt="profile views" /></p>
+![](https://komarev.com/ghpvc/?username=lipesdf)
 
 - 🖥️ㅤSystems Analyst
 - 🚀ㅤPython and Angular Developer
